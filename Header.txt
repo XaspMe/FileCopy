@@ -1,1 +1,0 @@
-Library for creating deep catalogs copy on network workstatiion. Allows you to track the status of each job for a remote node.
